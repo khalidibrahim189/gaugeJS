@@ -1,0 +1,8 @@
+
+  body { background: #efefef; }
+  .container { margin: 150px auto; }
+  #demo { height: 300px; width: 300px; }
+  #preview-textfield{
+  width: 300px;
+  text-align: center; font-size: 2em; font-weight: bold;
+  color: black; font-family: 'Amaranth', sans-serif; }
